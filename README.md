@@ -1,4 +1,4 @@
 # FatLab-Website
 Open Source Code
 
-Ingin menjadi contributor ? join telegram kami [FatLab-OS](https://t.me/fatlabOS)
+Ingin bergabung dengan kami dalam pembuatan OS ini ? join telegram kami [FatLab-OS](https://t.me/fatlabOS)
